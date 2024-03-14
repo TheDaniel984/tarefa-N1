@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    height: 200px; 
+    border: 2px solid gray; 
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.item {
+    width: 169px; 
+    height: 123px; 
+    background-color: azure; 
+    border: 1px solid blue; 
+    flex-wrap: wrap;
+}   
